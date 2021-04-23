@@ -1,0 +1,10 @@
+entries:
+  - title: me
+    entries:
+      - title: email
+        url: mailto:mnafian@github.io
+      - title: github
+        url: http://github.com/mnafian/
+
+  - title: thoughts
+    post_list: true
